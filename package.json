@@ -1,0 +1,16 @@
+{
+  "name": "neon-js",
+  "version": "1.0.0",
+  "description": "Custom-built SPA Web Component Framework",
+  "source": "src/index.js",
+  "main": "dist/main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [],
+  "author": "Samuel Coy",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "latest"
+  }
+}
