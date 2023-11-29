@@ -15,6 +15,7 @@
 - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
+    - [Wiki](#wiki)
 - [Usage](#usage)
 - [Run tests](#run-tests)
 - [Contributing](#contributing)
@@ -65,6 +66,11 @@ machine. If you don't have them installed, you can download them from
     ```bash
     neon --version
     ```
+   
+### Wiki
+
+For more information on how to use Neon-JS, check out the Wiki 
+[coming soon...]()
 
 ## Usage
 
